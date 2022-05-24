@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VRUIOutline
+  - VRUIText
+  - VRUIBackground
+  - VRUIButton
+  - VRUIIcon
+  - VRUIButtonIcon
+  - Flag
+  - VRUIButtonList
+  - VRUIButtonControlBar
+  - VRUIButtonTab
+  - VRUIBack
+  - VRUIAccent
+  - VRUIRadio
+  - VRUICheckbox
+  - VRUIToggle
+  - VRUISlider
+  - VRUICustom
+  - Fire
+  - FireHose
+  - Geiger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Restricted
+  - Player
+  - Grabbable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
